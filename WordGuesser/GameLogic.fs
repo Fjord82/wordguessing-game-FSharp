@@ -10,6 +10,7 @@ let rec santasLittleHelper (guessedValues : char list, correctAnswer : char list
         |h::t when not (Seq.exists((=) h) guessedValues) -> h 
         |_ -> failwith "Out of Luck, You are on the naugthy list"
 
+// Extras - Allow funtion, remove empty space elements from list
 let rec removeElementFromList(element, list: char list) = 
      match list with
         |[] -> []
