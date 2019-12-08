@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6DB19310-FE58-46DB-9368-CA1BFA45A110}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordGuesser/.gitignore">
+    <Files>
+      <File FileName="WordGuesser/Config.fs" Line="5" Column="25" />
+      <File FileName="WordGuesser/GameLogic.fs" Line="15" Column="18" />
+      <File FileName="WordGuesser/GameManager.fs" Line="20" Column="27" />
+      <File FileName="WordGuesser/Program.fs" Line="6" Column="38" />
+      <File FileName="WordGuesser/.gitignore" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WordGuesser" expanded="True">
+            <Node name="WordGuesser" expanded="True">
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WordGuesser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
