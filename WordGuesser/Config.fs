@@ -5,4 +5,4 @@ let CASE_SENSITIVE = false
 let ALLOW_BLANKS = false
 let HELP = false
 let MULTIPLE = false
-let WORDS = [ "Bo b"; "Alo ce"; "Tor sten"; "Ko ren"; ]
+let WORDS = [ "Bob"; "Alice"; "Torsten"; "Karen"; "Max Motor"; ]
